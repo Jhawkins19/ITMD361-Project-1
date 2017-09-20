@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf"-8">
+  <title>Resume</title>
+  
+</head>
+ 
+ <body>
+ <h1><strong>Jasmine D.Hawkins Resume</strong></h1>
+ 
+ <table>
+   <td>Chicago,IL 60615</td>
+   </table>
+   <table>
+   <td>Jhawkins1@hawk.iit.edu</td>
+   </table>
+   
+  <h2><strong><u>OBJECTIVE</u></strong></h2>
+  <p>To obtain a position that will enablemeto use my strong organizational skills,customer service background and ablitiy to work well with other people.</p>
+  
+  <h2><strong><u>EXPERIENCE</u></strong></h2>
+  <p><strong>Bookseller/Customer Service Representative,</strong> Barnes and Noble
+<ul>
+  <li> Assisted the Textbook Manager with book orders from publishing companies</li>  
+  <li>Invoiced orders, and provided excellent customer service to clientele</li>
+  <li>Assembled and arranged store displays to promote merchandise
+ 
+</ul>
+
+<h2><strong><u>SKILLS</u></strong></h2>
+<ul>
+   <li>Introduction to HTML5</li> 
+   <li>Proficient in Microsoft Office (Word,WordPress, Excel, and PowerPoint)</li> 
+   <li>Highly developed written and oral communication skills</li>
+   <li>Ability to analyze, and interpret data</li> 
+ 
+  
+ 
+ 
+ </body>
+ 
+ 
+ </html>
