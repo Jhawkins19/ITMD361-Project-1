@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+ <title>Chicago Adventures</title> 
+</head>
+<body>
+  <h3><center><strong>Fun Place To Visit In Chicago</strong></center></h3>
+ <h1><center>The Musuem of Contemporary Art Chicago</center></h1>
+  <p><center>MCA Chicago is a contemporary art musuem located in downtown Chicago, an is one of the largest contemporary art venues.</center></p> 
+  <p><center>MCA is ran gallery style, and is considered a Chicago gem in the art community</center></p> 
+ 
+<p><center>One of the highly popular exhibits at MCA is the new <strong>Takashi Murakami</strong> </center></p>
+ <center><iframe width="560" height="315" src="https://www.youtube.com/embed/dRPXuWshbLY?rel=0" frameborder="0" allowfullscreen></center></iframe>
+  
+  
+  <h2><center>Jeff Koons stainless steel statuary<em>The Rabbit</em></center></h2>
+ <center><img src="img/jeffkoons.jpg"></center>
+  <h2><center><em>Current and Past Exhibits</em></center></h2>
+<ul> 
+<center>
+<li>Takashi Murakami exhibit</li>
+<li>Jeff Koons exhibit</li>
+<li>Dan Flavin in house designs</li>
+<li>Andy Warhol exhibit</li>
+</center>
+</ul> 
+ 
+ 
+</body>
