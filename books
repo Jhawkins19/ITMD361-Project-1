@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+   <meta charset="utf-8">
+  <title>Main Page</title>
+  </head>
+  <body>
+   <nav>
+ </ul> 
+ <li><a href="projects/project-1-resume.html">Resume</a></li>
+</ul>
+  </nav>
+ <ul>
+  <li><a href="projects/index.html">Books</a></li> 
+  </ul>
+</nav>
+  
+ <h1>
+   <i>Favorite Books</i>
+   </h1>
+   <h2>I find that a great book can alter your perception and brighten up your day.</h2>
+   <p>Below are a few books i highly recommend.</p>
+   
+   <h2>The Power Of Now, by Eckhart tolle</h2>
+   <img src="img"/pon.jpeg>
+   
+   <h2>The Road Less Traveled,by M.Scott Peck</h2> 
+   <img src="img"/rltravel.jpeg>
+   
+   <h2>Love Letters of Great Men,by  </h2>
+   <img src="img"/loveletters.jpeg>
+   
+   </body>
+<footer>&copy;Jasmine Hawkins</footer>   
+   </html>
