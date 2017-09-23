@@ -1,35 +1,62 @@
 <!DOCTYPE HTML>
 <html lang="en">
-  <head>
-   <meta charset="utf-8">
-  <title>Main Page</title>
-  </head>
-  <body>
-   <nav>
- </ul> 
- <li><a href="projects/project-1-resume.html">Resume</a></li>
+<head>
+<meta charset="utf-8">
+  
+<title>Good Reads</title>
+  
+</head>
+  
+<body>
+
+  
+<h1>
+<i>Favorite Books</i>
+</h1>
+  
+<h2>I find that a great book can alter your perception and brighten up your day.</h2>
+<p>Below are a few books i highly recommend.</p>
+   
+   
+<h2>The Power Of Now,<em>by Eckhart Tolle</em></h2>
+<img src=https://images-na.ssl-images-amazon.com/images/I/41WIbflfG2L._SX323_BO1,204,203,200_.jpg>
+   
+
+   
+<h2>The Road Less Traveled,<em>by M.Scott Peck M.D</em></h2> 
+<img src=https://images.gr-assets.com/books/1322673263l/347852.jpg>
+
+
+   
+<h2>The Power of Habit,<em>by Charles Duhigg</em></h2>
+<img src=https://prodimage.images-bn.com/pimages/9780812981605_p0_v4_s550x406.jpg>
+   
+
+  
+<nav>
+<ul>
+<li><a href="projects/project-1-resume.html">Resume</a></li>
 </ul>
-  </nav>
- <ul>
-  <li><a href="projects/index.html">Books</a></li> 
-  </ul>
+</nav>
+
+<nav>
+<ul>
+<li><a href="projects/index.html">Main Page</a></li> 
+</ul>
 </nav>
   
- <h1>
-   <i>Favorite Books</i>
-   </h1>
-   <h2>I find that a great book can alter your perception and brighten up your day.</h2>
-   <p>Below are a few books i highly recommend.</p>
+
+
+  
    
-   <h2>The Power Of Now, by Eckhart tolle</h2>
-   <img src="img"/pon.jpeg>
+ 
+</body>
+
+
+
+
+
+
+<footer>&copy;Jasmine Hawkins</footer>
+</html>
    
-   <h2>The Road Less Traveled,by M.Scott Peck</h2> 
-   <img src="img"/rltravel.jpeg>
-   
-   <h2>Love Letters of Great Men,by  </h2>
-   <img src="img"/loveletters.jpeg>
-   
-   </body>
-<footer>&copy;Jasmine Hawkins</footer>   
-   </html>
