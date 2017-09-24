@@ -1,7 +1,8 @@
-<!Doctype html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <meta charset="utf"-8">
+  
   <title>Resume</title>
   
 </head>
@@ -10,9 +11,16 @@
 <h1><strong>Jasmine Hawkins Resume</strong></h1>
  
 <table>
+<tr>
 <td>Chicago,IL 60615</td>
+</tr>
 </table>
-<table><td>Jhawkins1@hawk.iit.edu</td></table>
+
+<table>
+<tr>
+<td>Jhawkins1@hawk.iit.edu</td>
+</tr>
+</table>
    
   <h2><strong><u>OBJECTIVE</u></strong></h2>
    <p>To obtain a position that will enable me to use my strong organizational skills,customer service background and ablitiy to work well with other people.</p>
@@ -62,7 +70,7 @@
 </ul>
 </nav>
  
- 
+<footer>&copy;Jasmine Hawkins</footer> 
 </body>
 
 
@@ -70,6 +78,5 @@
 
 
 
-<footer>&copy;Jasmine Hawkins</footer>
+
 </html>
-  
